@@ -1,0 +1,9 @@
+[
+  {
+    package_name: "com.graymatrix.did",
+    icon_url: "https://raw.githubusercontent.com/hexdecimal16/app_icons/main/icons/ic_banner_zeetv.jpg",
+    title: "ZEE5: Movies, TV Shows, Web Series, News",
+    tag: "featured",
+    categorey: "videos"
+  }
+]
